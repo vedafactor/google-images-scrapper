@@ -1,0 +1,7 @@
+selenium
+requests
+pillow
+colorama
+tqdm
+numpy
+tensorflow-lite
