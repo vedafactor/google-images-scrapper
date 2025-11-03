@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg" alt="Python 3.9+">
     <img src="https://img.shields.io/badge/Platform-Windows-blue.svg" alt="Windows">
     <img src="https://img.shields.io/badge/Maintained-Yes-green.svg" alt="Maintained">
-    <img src="https://img.shields.io/badge/License-open-green.svg" alt="License">
+    <img src="https://img.shields.io/badge/License-Open-green.svg" alt="License">
   </p>
   
   <br>
@@ -35,6 +35,15 @@
 
 ---
 
+## 🚧 Current Status & Future Plans
+
+This project is actively under development.
+
+* **Ongoing Tweaks:** The core scraping logic is continuously being tested and refined for stability and performance.
+* **Future Frontend:** A graphical user interface (GUI) is planned for a future release. This will make the tool more user-friendly and remove the need to run it from the command line.
+
+---
+
 ## ⚠️ Disclaimer & Responsible Use
 
 > **Warning:** This tool is intended for personal and educational use only.
@@ -51,8 +60,8 @@
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/vedafactor/google-images-scrapper.git)
-    cd google-images-scrapper
+    git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
+    cd Your-Repo-Name
     ```
 
 2.  **Create a virtual environment (Recommended):**
