@@ -60,8 +60,8 @@ This project is actively under development.
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
-    cd Your-Repo-Name
+    git clone [https://github.com/vedafactor/google-images-scrapper](https://github.com/vedafactor/google-images-scrapper)
+    cd google-images-scrapper
     ```
 
 2.  **Create a virtual environment (Recommended):**
